@@ -50,32 +50,34 @@ Please find the video here, https://github.com/SwetaAIS2024/IRS-PM-2024-10-27-AI
 
 ## SECTION 5 : USER GUIDE
 
-`Refer to appendix <Installation & User Guide> in project report at Github Folder: ProjectReport`
-
-### [ 1 ] To run the system using iss-vm
-
-> download pre-built virtual machine from http://bit.ly/iss-vm
-
-> start iss-vm
-
-> open terminal in iss-vm
-
-> $ git clone https://github.com/telescopeuser/Workshop-Project-Submission-Template.git
-
-> $ source activate iss-env-py2
-
-> (iss-env-py2) $ cd Workshop-Project-Submission-Template/SystemCode/clips
-
-> (iss-env-py2) $ python app.py
-
-> **Go to URL using web browser** http://0.0.0.0:5000 or http://127.0.0.1:5000
-
-### [ 2 ] To run the system in other/local machine:
-### Install additional necessary libraries. This application works in python 2 only.
-
-> $ sudo apt-get install python-clips clips build-essential libssl-dev libffi-dev python-dev python-pip
-
-> $ pip install pyclips flask flask-socketio eventlet simplejson pandas
+1. Installation
+ 
+Prerequisites:
+   - Python 3.8 or higher
+   - Flask
+   - Necessary libraries (e.g., TensorFlow, NumPy, Pandas)
+ 
+Steps:
+   1. Clone the repository
+   2. Navigate to the project folder
+   3. Install dependencies:
+pip install -r requirements.txt
+   4. Start the Flask server:
+  	       	python app.py
+   5. Open the application in a browser at `http://127.0.0.1:5000`.
+ 
+2. User Guide
+ 
+Navigating the Application:
+Home Page: Enter investment amount and choose between "Low-Risk" or "High-Return" portfolio strategies.
+Result Page: Review predicted returns and suggested stock allocations.
+ 
+Features:
+Portfolio Strategy Selection: Choose between risk-focused or return-focused approaches.
+Investment Allocation: Suggested allocation based on the selected strategy.
+ 
+Error Handling:
+If inputs are invalid or missing, clear messages will guide users to enter valid values.
 
 ---
 ## SECTION 6 : PROJECT REPORT / PAPER
