@@ -43,7 +43,7 @@ Prerequisites:
  
 Steps:
    1. Clone the repository
-   2. Navigate to the System code and download the flask implementation file
+   2. Navigate to the System code and download the flask_implementation file
    3. Unzip the file.
    4. Install dependencies:
 pip install -r requirements.txt
