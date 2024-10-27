@@ -43,12 +43,13 @@ Prerequisites:
  
 Steps:
    1. Clone the repository
-   2. Navigate to the project folder
-   3. Install dependencies:
+   2. Navigate to the System code and download the flask implementation file
+   3. Unzip the file.
+   4. Install dependencies:
 pip install -r requirements.txt
-   4. Start the Flask server:
+   5. Start the Flask server:
   	       	python app.py
-   5. Open the application in a browser at `http://127.0.0.1:5000`.
+   6. Open the application in a browser at `http://127.0.0.1:5000`.
  
 2. User Guide
  
