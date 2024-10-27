@@ -44,6 +44,7 @@ A web-based product for real-time portfolio monitoring and management.​
 
 ## SECTION 4 : VIDEO OF SYSTEM MODELLING & USE CASE DEMO
 
+Please find the video here, https://github.com/SwetaAIS2024/IRS-PM-2024-10-27-AIS06FT-GRP-GROUP10/tree/master/Video
 
 ---
 
