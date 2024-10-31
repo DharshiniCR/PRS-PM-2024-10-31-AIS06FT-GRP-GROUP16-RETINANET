@@ -1,23 +1,19 @@
 ## SECTION 1 : PROJECT TITLE
-## RetinaNet
+## Retinanet
 
 ---
 
 ## SECTION 2 : EXECUTIVE SUMMARY / PAPER ABSTRACT
 
-This project involves building a stock portfolio management system using machine learning techniques for optimization and prediction. It combines clustering, risk-return optimization, and time-series forecasting, all integrated into an interactive Flask web application. The system empowers everyday investors with accessible, data-driven financial insights for better decision-making.
+
 
 Key Components:​
 
-1.Portfolio selection and construction using clustering algorithm : K-means, Apriori ​
 
-2.Portfolio optimization through Particle Swarm Optimization (PSO), Genetic Algorithms (GA),  Simulated Annealing (SA)​
-
-3. Forecasting portfolio weights using LSTM​
 
 Goals:​
 
-A web-based product for real-time portfolio monitoring and management.​
+A web-based product for Eye disease prediction.​
 ---
 
 ## SECTION 3 : CREDITS / PROJECT CONTRIBUTION
