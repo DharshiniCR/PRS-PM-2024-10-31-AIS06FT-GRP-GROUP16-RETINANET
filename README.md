@@ -23,7 +23,7 @@ A web-based product for Eye disease prediction.​
 
 ## SECTION 4 : VIDEO OF SYSTEM MODELLING & USE CASE DEMO
 
-Please find the video here, https://github.com/DharshiniCR/PRS-PM-2024-10-31-AIS06FT-GRP-GROUP16-RETINANET/tree/master/Video
+Please find the video here, https://drive.google.com/file/d/1LFUOjjSf0pKWQF8VidZXKeOYd4gCi3mK/view?usp=sharing 
 
 ---
 
