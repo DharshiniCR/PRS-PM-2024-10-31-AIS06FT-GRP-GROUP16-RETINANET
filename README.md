@@ -11,7 +11,11 @@ In response to these challenges, our project aims to leverage advanced technolog
 
 This report outlines the objectives, methodologies, and anticipated impact of our project, highlighting how innovative technological solutions can transform eye care delivery and ultimately improve health outcomes for vulnerable populations. 
 
-**Goals**:​ Retinanet is web-based eye disease detection application which will integrate the best machine learning architecture out of the three approaches done in the project 
+**Goals**:​ Retinanet is web-based eye disease detection application which will integrate the best machine learning architecture out of the three approaches done in the project
+
+Based on the Result and Analysis, out of the 3 versions, Version-3 architecture gives the most efficient and interpretable results. So, Version-3 is deployed as the final classifier for Eye disease detection. 
+
+Implementation is done using Grad-CAM and Flask as described below. 
 
 A web-based product for Eye disease prediction.​
 ---
