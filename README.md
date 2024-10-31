@@ -18,13 +18,13 @@ A web-based product for Eye disease prediction.​
 
 ## SECTION 3 : CREDITS / PROJECT CONTRIBUTION
 
-![image](https://github.com/user-attachments/assets/2c6a958f-2b00-4b5a-a42a-86886ca52f04)
+
 
 ---
 
 ## SECTION 4 : VIDEO OF SYSTEM MODELLING & USE CASE DEMO
 
-Please find the video here, https://github.com/SwetaAIS2024/IRS-PM-2024-10-27-AIS06FT-GRP-GROUP10/tree/master/Video
+Please find the video here, 
 
 ---
 
@@ -35,7 +35,7 @@ Please find the video here, https://github.com/SwetaAIS2024/IRS-PM-2024-10-27-AI
 Prerequisites:
    - Python 3.8 or higher
    - Flask
-   - Necessary libraries (e.g., TensorFlow, NumPy, Pandas)
+   - Necessary libraries (e.g., CV2, TensorFlow, NumPy, Pandas, sklearn)
  
 Steps:
    1. Clone the repository
@@ -50,15 +50,13 @@ pip install -r requirements.txt
 2. User Guide
  
 Navigating the Application:
-Home Page: Enter investment amount and choose between "Low-Risk" or "High-Return" portfolio strategies.
-Result Page: Review predicted returns and suggested stock allocations.
+
  
 Features:
-Portfolio Strategy Selection: Choose between risk-focused or return-focused approaches.
-Investment Allocation: Suggested allocation based on the selected strategy.
+
  
 Error Handling:
-If inputs are invalid or missing, clear messages will guide users to enter valid values.
+
 
 ---
 ## SECTION 6 : PROJECT REPORT / PAPER
@@ -81,12 +79,3 @@ If inputs are invalid or missing, clear messages will guide users to enter valid
 ## SECTION 7 : MISCELLANEOUS
 
 `Refer to Github Folder: Miscellaneous`
-
-
-**This [Machine Reasoning (MR)](https://www.iss.nus.edu.sg/executive-education/course/detail/machine-reasoning "Machine Reasoning") course is part of the Analytics and Intelligent Systems and Graduate Certificate in [Intelligent Reasoning Systems (IRS)](https://www.iss.nus.edu.sg/stackable-certificate-programmes/intelligent-systems "Intelligent Reasoning Systems") series offered by [NUS-ISS](https://www.iss.nus.edu.sg "Institute of Systems Science, National University of Singapore").**
-
-**Lecturer: [GU Zhan (Sam)](https://www.iss.nus.edu.sg/about-us/staff/detail/201/GU%20Zhan "GU Zhan (Sam)")**
-
-[![alt text](https://www.iss.nus.edu.sg/images/default-source/About-Us/7.6.1-teaching-staff/sam-website.tmb-.png "Let's check Sam' profile page")](https://www.iss.nus.edu.sg/about-us/staff/detail/201/GU%20Zhan)
-
-**zhan.gu@nus.edu.sg**
