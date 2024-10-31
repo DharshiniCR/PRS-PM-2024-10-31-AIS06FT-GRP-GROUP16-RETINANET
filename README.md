@@ -5,26 +5,25 @@
 
 ## SECTION 2 : EXECUTIVE SUMMARY / PAPER ABSTRACT
 
+**Key Components**:​ Access to quality medical care remains a critical challenge in many developing countries, particularly in specialized areas like ophthalmology. Inadequate resources and a shortage of trained professionals often result in significant delays in diagnosis and treatment, leading to the progression of preventable or treatable eye conditions. This not only exacerbates the burden of vision-related disabilities but also impacts the overall health and productivity of affected individuals. 
 
+In response to these challenges, our project aims to leverage advanced technology to enhance the accessibility and efficiency of eye care. By developing a sophisticated classification system that utilizes machine learning and deep learning techniques, we seek to provide rapid and accurate diagnoses of common eye diseases such as Diabetic Retinopathy, Cataract, and Glaucoma through the analysis of retinal images. This initiative promises to deliver instant feedback to healthcare professionals and patients, particularly in remote regions where access to specialized care is limited. 
 
-Key Components:​
+This report outlines the objectives, methodologies, and anticipated impact of our project, highlighting how innovative technological solutions can transform eye care delivery and ultimately improve health outcomes for vulnerable populations. 
 
-
-
-Goals:​
+**Goals**:​ Retinanet is web-based eye disease detection application which will integrate the best machine learning architecture out of the three approaches done in the project 
 
 A web-based product for Eye disease prediction.​
 ---
 
 ## SECTION 3 : CREDITS / PROJECT CONTRIBUTION
-
-
+<img width="491" alt="image" src="https://github.com/user-attachments/assets/5d8b040b-c53a-428b-bc08-c27fbb0ac834">
 
 ---
 
 ## SECTION 4 : VIDEO OF SYSTEM MODELLING & USE CASE DEMO
 
-Please find the video here, 
+Please find the video here, https://github.com/DharshiniCR/PRS-PM-2024-10-31-AIS06FT-GRP-GROUP16-RETINANET/tree/master/Video
 
 ---
 
@@ -36,7 +35,12 @@ Prerequisites:
    - Python 3.8 or higher
    - Flask
    - Necessary libraries (e.g., CV2, TensorFlow, NumPy, Pandas, sklearn)
- 
+   - Download the dataset from this drive link,
+     - ODIR-5K - https://drive.google.com/drive/folders/1vg4fkEa8aMBzfdecoZgKLmMlZAdSkoSO?usp=sharing
+     - Cataract dataset - https://drive.google.com/drive/folders/1RVwudczOU84nQnypzwSTtzdh2881y42G?usp=sharing
+     - Diabetes Retinopathy dataset - https://drive.google.com/drive/folders/1Wfp6T-obd3Af51rzBn4Osx3SOcFA8QtH?usp=sharing
+     - Glaucoma dataset - https://drive.google.com/drive/folders/1GuijSyWLBMIWDr52vz5Q5M5hHVrWmz8-?usp=sharing
+
 Steps:
    1. Clone the repository
    2. Navigate to the System code and download the flask_implementation file
@@ -73,7 +77,7 @@ Error Handling:
 - Project Performance & Validation 
 - Project Conclusions: Findings & Recommendation
 - Appendix of report: Project Proposal
-- Appendix of report: Mapped System Functionalities against knowledge, techniques and skills of modular courses: MR, RS, CGS
+- Appendix of report: Mapped System Functionalities against knowledge, techniques and skills of modular courses
 - Appendix of report: Installation and Use
 
 ## SECTION 7 : MISCELLANEOUS
