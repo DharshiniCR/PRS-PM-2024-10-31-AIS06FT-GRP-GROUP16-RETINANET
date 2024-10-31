@@ -41,6 +41,8 @@ Prerequisites:
      - Cataract dataset - https://drive.google.com/drive/folders/1RVwudczOU84nQnypzwSTtzdh2881y42G?usp=sharing
      - Diabetes Retinopathy dataset - https://drive.google.com/drive/folders/1Wfp6T-obd3Af51rzBn4Osx3SOcFA8QtH?usp=sharing
      - Glaucoma dataset - https://drive.google.com/drive/folders/1GuijSyWLBMIWDr52vz5Q5M5hHVrWmz8-?usp=sharing
+   - Find the weights of the model in the below drive link
+     - https://drive.google.com/drive/folders/1rnf9pC9X0oCdQ1inOyDVkLABiJeJHMmx?usp=sharing
 
 Steps:
    1. Clone the repository
