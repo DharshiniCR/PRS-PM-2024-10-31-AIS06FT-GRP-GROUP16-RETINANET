@@ -35,6 +35,7 @@ Prerequisites:
    - Python 3.8 or higher
    - Flask
    - Necessary libraries (e.g., CV2, TensorFlow, NumPy, Pandas, sklearn)
+   - NOTE: MAKE SURE THAT THE BELOW MENTIONED DATASET IS PRESENT IN THE SAME FOLDER AS THE .ipynb file
    - Download the dataset from this drive link,
      - ODIR-5K - https://drive.google.com/drive/folders/1vg4fkEa8aMBzfdecoZgKLmMlZAdSkoSO?usp=sharing
      - Cataract dataset - https://drive.google.com/drive/folders/1RVwudczOU84nQnypzwSTtzdh2881y42G?usp=sharing
